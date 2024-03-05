@@ -1,0 +1,11 @@
+.error{
+    margin:50px;
+    color:blue;
+    padding:10px;
+    border: 1px dotted black;
+}
+.success{
+    color:black;
+    border:2px dotted dodgerblue ;
+    padding: 20px;
+}
